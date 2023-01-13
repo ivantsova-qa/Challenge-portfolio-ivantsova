@@ -1,5 +1,5 @@
 
-# Task 1: software configuration
+# Task 1: Software configuration
 
 ## Subtask 1: Why did I choose to participate in the Dare IT Challenge?
 I decided to take part in the Dare IT Challenge to learn to write autotest and check my knowledge in testing and possibly to become a part of the Dare IT team in the future.
