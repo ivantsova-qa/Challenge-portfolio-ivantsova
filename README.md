@@ -10,9 +10,11 @@ My goal is to complete this Challenge and get an internship at the Dare IT compa
 
 From the course I expect cool experienced mentors, a lot of communication and new acquaintances, interesting and close to real work tasks, develop my knowledge in automated testing.
 
-# TASK 2: Selectors
+# Task 2: Selectors
 
 > Searching for selectors on the login pageList all the elements that are on the login page.
+
+### Examples 
 
 - scouts_panel_title_xpath
 ```
@@ -35,7 +37,7 @@ From the course I expect cool experienced mentors, a lot of communication and ne
 //*[@id="password"]
 //input[@name="password"]
 /html/body/div/form/div/div[1]/div[2]/div/input
-// child::div//input [@type="password"]
+//child::div//input [@type="password"]
 //input[@type="password"]
 ```
 - remaind_password_hyperlink_xpath
