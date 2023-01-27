@@ -1,4 +1,3 @@
-
 # Task 1: Software configuration
 
 ## Subtask 1: Why did I choose to participate in the Dare IT Challenge?
@@ -67,3 +66,12 @@ From the course I expect cool experienced mentors, a lot of communication and ne
 //div/following-sibling::button
 //div/following-sibling::button[contains(@type, "submit")]
 ```
+# Task 3: First automatic test, asserts
+### Goal
+>The goal of the task is to perform an automatic test that checks the correctness of the displayed page title, click on the button, Fill the fields with text.
+
+✅ Get to know the "framework" <br>
+✅ Click on the elements on the page <br>
+✅ Fill the fields with text <br>
+✅ Use "assert" <br>
+✅ Start testing <br>
