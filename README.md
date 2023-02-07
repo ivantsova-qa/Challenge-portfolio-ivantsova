@@ -84,10 +84,8 @@ From the course I expect cool experienced mentors, a lot of communication and ne
 - [x] Writing code based on test cases<br>
 - [x] Uploading recordings of running tests to google drive<br>
 - [x] Creating screenshot method and test report
----
+
 ### Google Drive link with TC
 
 [TEST CASES 👩🏻‍💻](https://drive.google.com/drive/folders/1_xEgr-Qn4WaT2ixt4SWz95-9deSIXrfA?usp=share_link)
-
----
 
