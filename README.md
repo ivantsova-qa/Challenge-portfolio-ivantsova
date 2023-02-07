@@ -69,9 +69,25 @@ From the course I expect cool experienced mentors, a lot of communication and ne
 # Task 3: First automatic test, asserts
 ### Goal
 >The goal of the task is to perform an automatic test that checks the correctness of the displayed page title, click on the button, Fill the fields with text.
+> 
+- [x] Get to know the "framework" <br>
+- [x] Click on the elements on the page <br>
+- [x] Fill the fields with text <br>
+- [x] Use "assert" <br>
+- [x] Start testing <br>
 
-✅ Get to know the "framework" <br>
-✅ Click on the elements on the page <br>
-✅ Fill the fields with text <br>
-✅ Use "assert" <br>
-✅ Start testing <br>
+# Task 4: First automatic test, asserts
+### Goal
+> Create test cases and write automatic tests
+>
+- [x] Writing test cases<br>
+- [x] Writing code based on test cases<br>
+- [x] Uploading recordings of running tests to google drive<br>
+- [x] Creating screenshot method and test report
+---
+### Google Drive link with TC
+
+[TEST CASES 👩🏻‍💻](https://drive.google.com/drive/folders/1_xEgr-Qn4WaT2ixt4SWz95-9deSIXrfA?usp=share_link)
+
+---
+
